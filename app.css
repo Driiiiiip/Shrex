@@ -1,0 +1,13 @@
+html{
+    background: #000;
+}
+
+.shity{
+    width: 100px;
+    height: 200px;
+}
+.shrekx{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
